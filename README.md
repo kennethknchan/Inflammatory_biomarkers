@@ -12,13 +12,9 @@ This project is based on the original SpOOx pipeline:
 
 For detailed documentation, installation instructions, and pipeline usage, please refer to the original repository.
 
-## Modifications
+Modifications: The original pipeline has been adapted for the requirements of our project, with modifications to the analysis workflow and additional R scripts for project-specific analyses.
 
-The original pipeline has been adapted for the requirements of our project, with modifications to the analysis workflow and additional R scripts for project-specific analyses.
-
-## Acknowledgement
-
-We acknowledge the original SpOOx developers and contributors. This repository builds upon their work, with adaptations made for our specific research purposes.
+Acknowledgement: We acknowledge the original SpOOx developers and contributors. This repository builds upon their work, with adaptations made for our specific research purposes.
 
 ## time ROC analysis
  Description:
