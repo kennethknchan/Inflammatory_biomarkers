@@ -4,7 +4,7 @@ This repository contains an adapted version of the **SpOOx (Spatial Omics Oxford
 
 The original pipeline was developed for processing and analysing spatial proteomics data, including image processing, cell segmentation, clustering, and spatial statistical analysis.
 
-## Original Repository
+## Repository for IMC analysis
 
 This project is based on the original SpOOx pipeline:
 
