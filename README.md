@@ -1,4 +1,4 @@
-# SpOOx – Adapted Analysis Pipeline
+# The interplay of biomarkers of systemic and local coronary inflammation in cardiovascular risk prediction.
 
 This repository contains an adapted version of the **SpOOx (Spatial Omics Oxford)** analysis pipeline, originally developed by the Taylor CCB Group at the University of Oxford.
 
