@@ -19,3 +19,22 @@ The original pipeline has been adapted for the requirements of our project, with
 ## Acknowledgement
 
 We acknowledge the original SpOOx developers and contributors. This repository builds upon their work, with adaptations made for our specific research purposes.
+
+## time ROC analysis
+# Description:
+# Fits Cox proportional hazards models and evaluates their
+# discrimination using time-dependent ROC curves and AUC.
+#
+# Required packages:
+#   survival, timeROC
+#
+# Input data:
+#   One row per participant, containing:
+#   - follow_up_time: follow-up duration (months)
+#   - event_status: event indicator (0 = censored, 1 = event)
+#   - predictor_1, predictor_2, etc.: model predictors
+#
+# Note:
+# This script is a template. Replace the example variable
+# names with those in your dataset.
+# ============================================================
