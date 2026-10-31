@@ -21,7 +21,7 @@ Acknowledgement: We acknowledge the original SpOOx developers and contributors. 
  Fits Cox proportional hazards models and evaluates their
  discrimination using time-dependent ROC curves and AUC.
 
-Note:
-This script is a template. Replace the example variable
-names with those in your dataset.
+## Transcriptomic analysis 
+ Description:
+ RNA seq analysis 
 
